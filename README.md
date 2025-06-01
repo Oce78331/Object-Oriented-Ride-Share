@@ -1,4 +1,4 @@
-# OO Ride Share
+# Object Oriented Ride Share
 
 ## At a Glance
 
